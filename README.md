@@ -5,7 +5,13 @@
 
 I am a Frontend Developer and a student at Southeast University. I have completed the Programming Hero – Level 1 course, gaining skills in HTML, CSS, Tailwind CSS, JavaScript, React, React Router, along with backend basics like MongoDB, Express.js, and Stripe Payment Gateway integration. I enjoy building modern, responsive, and user-friendly web applications while continuously improving my skills.
 
-Skills: - ⚛️ React - 🟨 JavaScript - 🪶 Tailwind CSS - 🍃 MongoDB - ⚙️ Express.js - 📄 HTML - 🎨 CSS
+Skills: 
+- ⚛️ React
+- 🟨 JavaScript
+- 🪶 Tailwind CSS
+- 🍃 MongoDB
+- ⚙️ Express.js
+- 📄 HTML - 🎨 CSS
 
 - 🔭 I’m currently working on Traveling web site and Student management web site 
 - 🌱 I’m currently learning javaScripts 
